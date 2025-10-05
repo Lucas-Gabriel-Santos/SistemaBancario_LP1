@@ -1,13 +1,17 @@
 # SistemaBancario_LP1
 Programa em C++ que simula um sistema bancário simples, incluindo classes para Clientes e Contas Bancárias, e implementando as ações de depósito, saque e transferência. O programa deve utilizar conceitos de classes, objetos, construtores e sobrecarga de métodos.
 
-##Instalação na máquina:
+## Instalação na máquina:
 
 1. Clone o repositório na sua máquina local:
-```` ``` ````
+````
+https://github.com/Lucas-Gabriel-Santos/SistemaBancario_LP1.git
+````
 
-2. Procure a pasta do projeto:
-```` cd SistemaBancario_LP1 ````
+3. Procure a pasta do projeto:
+````
+cd SistemaBancario_LP1
+````
 
 3.Em seguida, execute o comando ````./TrabalhoModularizado.exe```` no terminal
 
