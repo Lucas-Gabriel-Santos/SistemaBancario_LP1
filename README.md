@@ -7,12 +7,10 @@ Programa em C++ que simula um sistema bancário simples, incluindo classes para 
 ````
 https://github.com/Lucas-Gabriel-Santos/SistemaBancario_LP1.git
 ````
-
-3. Procure a pasta do projeto:
+2. Procure a pasta do projeto:
 ````
 cd SistemaBancario_LP1
 ````
-
 3.Em seguida, execute o comando ````./TrabalhoModularizado.exe```` no terminal
 
 4.A saída esperada está a seguir:
