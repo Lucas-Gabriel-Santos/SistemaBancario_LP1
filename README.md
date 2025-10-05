@@ -11,9 +11,9 @@ https://github.com/Lucas-Gabriel-Santos/SistemaBancario_LP1.git
 ````
 cd SistemaBancario_LP1
 ````
-3.Em seguida, execute o comando ````./TrabalhoModularizado.exe```` no terminal
+3. Em seguida, execute o comando ````./TrabalhoModularizado.exe```` no terminal
 
-4.A saída esperada está a seguir:
+4. A saída esperada está a seguir:
 ```` 
 Saldo atual da conta 1001: R$ 1000
 Transferido: R$ 200 da conta 1001 para a conta 1002
